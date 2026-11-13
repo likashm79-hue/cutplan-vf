@@ -1,0 +1,15 @@
+CutPlan v1.3.0 final regression summary
+
+PASS: node --check drawing-layout.js
+PASS: node test-engine.js
+PASS: node test-drawings.js
+PASS: node test-v100-parser.js
+PASS: python3 test-v100-ui.py
+PASS: python3 test-v120-manual-panel.py
+PASS: python3 test-v130-small-panel-labels.py
+
+The new drawing/browser tests cover:
+- 250 × 180 mm small panel: reference + combined Length × Width printed horizontally inside the panel at the target font size.
+- 80 × 50 mm very tiny panel: numbered marker + combined Length × Width in the adjacent schedule.
+- 1200 × 480 mm regular panel: previous edge-aligned dimensions remain unchanged.
+- Print-media rendering keeps the small-part schedule visible.

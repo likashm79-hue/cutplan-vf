@@ -1,0 +1,1 @@
+CutPlan v1.2.0 manual-panel UI tests passed: always-visible Add Panel on PDF tab; imported order preserved; manual fields and banding saved; Add & Add Another; unique refs; editor navigation; validation; optimization includes new panels.

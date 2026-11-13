@@ -1,0 +1,1 @@
+Drawing label tests passed: strict 90 mm source-dimension threshold, unit-free small-panel Length × Width labels, tiny-part schedule fallback, regular side-aligned dimensions, adaptive fit, narrow/long references, marker containment and 120 marker-to-schedule mappings.

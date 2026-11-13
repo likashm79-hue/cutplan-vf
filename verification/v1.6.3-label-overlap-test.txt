@@ -1,0 +1,1 @@
+CutPlan v1.6.3 browser test passed: 10 pt references, 11.5 pt dimension target, all SVG text contained inside each part, no in-part overlaps, small-panel combined dimensions, zero external callouts, and A4 PDF export.

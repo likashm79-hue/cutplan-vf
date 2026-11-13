@@ -1,0 +1,46 @@
+     Board 01
+
+
+
+
+                BOUNDARY-A
+          600
+            90
+
+
+
+
+                             1200
+                                    LARGE-A
+
+
+
+
+                                      480
+
+
+
+
+                                                                         80 × 180
+                                                               SMALL-L
+       NARROW-C
+95
+
+
+
+
+          900
+                   SMALL-W
+                  500 × 89
+                                                                    LONG-REF-PANEL
+                                                  NARROW-B
+                                                             720
+                                            600
+
+
+
+
+                                             90
+                                                               110
+                                                                          TINY-A · 40 × 20
+

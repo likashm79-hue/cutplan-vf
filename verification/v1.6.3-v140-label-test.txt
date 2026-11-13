@@ -1,0 +1,1 @@
+CutPlan v1.6.3 boundary test passed: small panels use combined Length × Width, exactly 90 mm remains regular with collision-free edge labels, and no external callout schedule is rendered.

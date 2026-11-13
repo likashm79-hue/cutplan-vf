@@ -1,0 +1,1 @@
+CutPlan v1.4.0 browser test passed: either dimension <90 uses unit-free Length × Width; exactly 90 uses regular side labels; large panels retain separate length/width labels; no browser errors.

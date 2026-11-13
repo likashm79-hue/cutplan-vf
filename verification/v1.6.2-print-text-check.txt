@@ -1,0 +1,20 @@
+480
+
+TINY-A · 40 × 20
+
+1200
+
+SMALL-L
+80 × 180
+
+SMALL-W
+500 × 89
+
+BOUNDARY-A
+600 × 90
+
+Board 01
+
+LARGE-A
+
+

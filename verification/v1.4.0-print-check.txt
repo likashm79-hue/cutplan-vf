@@ -1,0 +1,27 @@
+Board 01
+SMALL-W
+500 × 89
+
+Part label details
+①
+
+BOUNDARY-A · Length 600 · Width
+90
+Qty 1
+
+②
+
+②
+
+1200
+
+①
+
+LARGE-A
+
+480
+
+SMALL-L · 80 × 180
+Qty 1
+
+
